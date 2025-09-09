@@ -1,2 +1,4 @@
 what is django
 your first project
+django models
+Django Admin
